@@ -1,1 +1,1 @@
-# javascript-fundamentals
+# Learning the Fundamentals of Javascript
